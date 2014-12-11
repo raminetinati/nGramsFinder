@@ -1,4 +1,4 @@
-#Author
+#author Ramine Tinati - raminetinati@gmail.com
 import sys
 import nltk
 
