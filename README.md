@@ -6,4 +6,6 @@ Use this python script in order to generate a list of trigrams (raw and aggregat
 dependences
 ===========
 
-This script requires nltk (http://nltk.org) 
+This script requires:
+
+nltk (http://nltk.org) 
